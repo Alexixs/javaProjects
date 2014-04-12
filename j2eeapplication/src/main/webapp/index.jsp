@@ -10,6 +10,6 @@
 <body>
 	<h1>Initial project</h1>
 	<h1>Hi this is my first project with spring</h1>
-	<h1>I have already created a repository</h1>
+	<h1>Hi this is my first project with spring</h1>
 </body>
 </html>
